@@ -1,4 +1,4 @@
-## Sobre Mim
+<h1> Sobre Mim </h1>
 
 <br>
 Olá! 👋 Sou um entusiasta de Python e um estudante apaixonado por tecnologia. Meu nome é Lucas, e este é meu repositório no GitHub, onde compartilho projetos e aprendizados na jornada de programação.
