@@ -1,6 +1,6 @@
 # Multilanguage README Pattern
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/oLucasOlv/oLucasOlv/blob/main/README.en.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-br.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/oLucasOlv/oLucasOlv/blob/main/README.md)
 
 
 
