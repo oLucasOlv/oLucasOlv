@@ -1,18 +1,17 @@
-# Multilanguage README Pattern
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-br.md)
+# Multilanguage
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/oLucasOlv/oLucasOlv/blob/main/README.en.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/oLucasOlv/oLucasOlv/blob/main/README.md)
 
 
 
 
 
 # Welcome
- Olá! 👋 Sou um entusiasta de Python e um estudante apaixonado por tecnologia. Meu nome é **Lucas**, e este é meu repositório no GitHub, onde compartilho projetos e aprendizados na jornada de programação.
+  Hi 👋 I'm a Python enthusiast and a student with a passion for technology. My name is **Lucas**, and this is my GitHub repository, where I share projects and learnings from my programming journey.
 
-## 🚀 Habilidades
+## 🚀 Skills
 
-Atualmente, estou explorando o universo do desenvolvimento em Python e também tenho conhecimentos em:
-
+I'm currently exploring the world of Python development and also have knowledge of:
 <div>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
@@ -20,7 +19,7 @@ Atualmente, estou explorando o universo do desenvolvimento em Python e também t
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
 </div>
 
-## 📊 Estatísticas
+## 📊 Statistics
 
 <div>
     <a href="https://github.com/oLucasOlv">
@@ -29,9 +28,9 @@ Atualmente, estou explorando o universo do desenvolvimento em Python e também t
     </a>
 </div>
 
-## 📫 Contato
+## 📫 Contact
 
 <a href="mailto:lucasolv.contact@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img> </a>
 <a href="https://www.linkedin.com/in/lucas-silva-8639662a6/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img> </a>
 
-Sinta-se à vontade para explorar meus projetos e entrar em contato! 😊
+Feel free to explore my projects and get in touch! 😊
