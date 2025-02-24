@@ -8,16 +8,18 @@
 
 
 # Welcome
-  Hi 👋 I'm a Python enthusiast and a student with a passion for technology. My name is **Lucas**, and this is my GitHub repository, where I share projects and learnings from my programming journey.
+  Hi 👋 I'm a FullStack enthusiast and a student with a passion for technology. My name is **Lucas**, and this is my GitHub repository, where I share projects and learnings from my programming journey.
 
 ## 🚀 Skills
 
 I'm currently exploring the world of Python development and also have knowledge of:
 <div>
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"></img>
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"></img>
+    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"></img>
+    <img src = "https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"></img>
+
 </div>
 
 ## 📊 Statistics
